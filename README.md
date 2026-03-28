@@ -1,2 +1,2 @@
 # Canteen-Website
-Basic college canteen website using HTML
+Basic canteen website using HTML
